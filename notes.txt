@@ -5,3 +5,4 @@ This is my first commit
 
 
 Enjoyed learning about Quality Assurance and how it operates in a real working environment.
+Continue building skills in automation testing using Selenium.

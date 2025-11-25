@@ -2,3 +2,6 @@ This is my first commit
 
  	User is successfully logged in
  	Main Dashboard is displayed
+
+
+Enjoyed learning about Quality Assurance and how it operates in a real working environment.
